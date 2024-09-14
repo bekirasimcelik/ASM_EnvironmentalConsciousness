@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957741001627",
+    "project_id": "environmentalconsciousne-d98a4",
+    "storage_bucket": "environmentalconsciousne-d98a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957741001627:android:cdaef9e67f10db8f774f3e",
+        "android_client_info": {
+          "package_name": "com.environmentalconsciousness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbwBhnmbxR3U5KxSYrltMK8eXcmu1IWIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
